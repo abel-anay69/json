@@ -1,0 +1,162 @@
+{"coleccion":
+[
+    {
+        "id": 0,
+        "nombre": "The promised neverland",
+        "imagen": "/img/img_tienda/mangas/the-promised-neverland/the-promised-neverland-01.jpg",
+        "num_tomos": 18,
+        "tomos": [
+              {
+                  "id_tomo": 1,
+                  "nombre_tomo": "01 - The promised neverland hola1",
+                  "imagen_tomo": "",
+                  "enlace": ""
+              },
+              {
+                  "id_tomos": 2,
+                  "nombre_tomo": "02 - The promised neverland hola2",
+                  "imagen_tomo": "",
+                  "enlace": ""
+              }
+          ]
+  
+    },
+    {
+      "id": 1,
+      "nombre": "Guardianes de la noche",
+      "imagen": "/img/img_tienda/mangas/guardianes-de-la-noche/guardianes-de-la-noche-01.jpg",
+      "num_tomos": 20,
+      "tomos": [
+            {
+                "id_tomo": 1,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomo": 2,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomo": 3,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomo": 4,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomo": 5,
+                "imagen_tomo": "",
+                "enlace": ""
+            }
+        ]
+
+    },
+    {
+      "id": 2,
+      "nombre": "Jujutsu Kaisen",
+      "imagen": "/img/img_tienda/mangas/jujutsu-kaisen/jujutsu-kaisen-01.jpg",
+      "num_tomos": 6,
+      "tomos": [
+            {
+                "id_tomo": 1,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomos": 2,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomos": 3,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomos": 4,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomos": 5,
+                "imagen_tomo": "",
+                "enlace": ""
+            }
+        ]
+
+    },
+    {
+      "id": 3,
+      "nombre": "Tokyo Ghoul",
+      "imagen": "/img/img_tienda/mangas/tokyo-ghoul/tokyo-ghoul-01.jpg",
+      "num_tomos": 14,
+      "tomos": [
+            {
+                "id_tomo": 1,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomos": 2,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomos": 3,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomos": 4,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomos": 5,
+                "imagen_tomo": "",
+                "enlace": ""
+            }
+        ]
+        
+    },
+    {
+      "id": 4,
+      "nombre": "My hero academia",
+      "imagen": "/img/img_tienda/mangas/my-hero-academia/my-hero-academia-01.jpg",
+      "num_tomos": 30,
+      "tomos": [
+            {
+                "id_tomo": 1,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomos": 2,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomos": 3,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomos": 4,
+                "imagen_tomo": "",
+                "enlace": ""
+            },
+            {
+                "id_tomos": 5,
+                "imagen_tomo": "",
+                "enlace": ""
+            }
+
+        ]
+
+    }
+]
+}
