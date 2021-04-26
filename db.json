@@ -4,17 +4,35 @@
         "id": 0,
         "nombre": "The promised neverland",
         "imagen": "/img/img_tienda/mangas/the-promised-neverland/the-promised-neverland-01.jpg",
-        "num_tomos": 18,
+        "num_tomos": 20,
         "tomos": [
               {
                   "id_tomo": 1,
-                  "nombre_tomo": "01 - The promised neverland hola1",
+                  "nombre_tomo": "01 - The promised neverland",
                   "imagen_tomo": "",
                   "enlace": ""
               },
               {
                   "id_tomos": 2,
-                  "nombre_tomo": "02 - The promised neverland hola2",
+                  "nombre_tomo": "02 - The promised neverland",
+                  "imagen_tomo": "",
+                  "enlace": ""
+              },
+              {
+                  "id_tomos": 2,
+                  "nombre_tomo": "03 - The promised neverland",
+                  "imagen_tomo": "",
+                  "enlace": ""
+              },
+              {
+                  "id_tomos": 4,
+                  "nombre_tomo": "04 - The promised neverland",
+                  "imagen_tomo": "",
+                  "enlace": ""
+              },
+              {
+                  "id_tomos": 5,
+                  "nombre_tomo": "05 - The promised neverland",
                   "imagen_tomo": "",
                   "enlace": ""
               }
