@@ -40,7 +40,7 @@
   
     },
     {
-      "id": 1,
+      "id": "guardianes-de-la-noche",
       "nombre": "Guardianes de la noche",
       "imagen": "/img/img_tienda/mangas/guardianes-de-la-noche/guardianes-de-la-noche-01.jpg",
       "num_tomos": 20,
@@ -74,7 +74,7 @@
 
     },
     {
-      "id": 2,
+      "id": "jujutsu-kaisen",
       "nombre": "Jujutsu Kaisen",
       "imagen": "/img/img_tienda/mangas/jujutsu-kaisen/jujutsu-kaisen-01.jpg",
       "num_tomos": 6,
@@ -108,7 +108,7 @@
 
     },
     {
-      "id": 3,
+      "id": "tokyo-ghoul",
       "nombre": "Tokyo Ghoul",
       "imagen": "/img/img_tienda/mangas/tokyo-ghoul/tokyo-ghoul-01.jpg",
       "num_tomos": 14,
@@ -142,7 +142,7 @@
         
     },
     {
-      "id": 4,
+      "id": "my-hero-academia",
       "nombre": "My hero academia",
       "imagen": "/img/img_tienda/mangas/my-hero-academia/my-hero-academia-01.jpg",
       "num_tomos": 30,
@@ -177,4 +177,5 @@
 
     }
 ]
+ 
 }
