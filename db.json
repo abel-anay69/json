@@ -1,7 +1,7 @@
 {"coleccion":
 [
     {
-        "id": "1",
+        "id": "the-promised-neverland",
         "nombre": "The promised neverland",
         "imagen": "/img/img_tienda/mangas/the-promised-neverland/the-promised-neverland-01.jpg",
         "num_tomos": 20,
@@ -40,7 +40,7 @@
   
     },
     {
-      "id": "2",
+      "id": "guardianes-de-la-noche",
       "nombre": "Guardianes de la noche",
       "imagen": "/img/img_tienda/mangas/guardianes-de-la-noche/guardianes-de-la-noche-01.jpg",
       "num_tomos": 20,
@@ -74,7 +74,7 @@
 
     },
     {
-      "id": "3",
+      "id": "jujutsu-kaisen",
       "nombre": "Jujutsu Kaisen",
       "imagen": "/img/img_tienda/mangas/jujutsu-kaisen/jujutsu-kaisen-01.jpg",
       "num_tomos": 6,
