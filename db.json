@@ -179,38 +179,38 @@
 {"coleccion_europeo":
 [
     {
-        "id": "the-promised-neverland",
-        "nombre": "The promised neverland",
-        "imagen": "/img/img_tienda/mangas/the-promised-neverland/the-promised-neverland-01.jpg",
+        "id": "nombre-del-articulo",
+        "nombre": "nombre del articulo",
+        "imagen": "../../img/img_tienda/comic/europeo/independiente/recomendacion.jpg",
         "num_tomos": 20,
         "tomos": [
               {
                   "id_tomo": 1,
-                  "nombre_tomo": "01 - The promised neverland",
+                  "nombre_tomo": "01 - nombre del articulo",
                   "imagen_tomo": "",
                   "enlace": ""
               },
               {
                   "id_tomos": 2,
-                  "nombre_tomo": "02 - The promised neverland",
+                  "nombre_tomo": "02 - nombre del articulo",
                   "imagen_tomo": "",
                   "enlace": ""
               },
               {
                   "id_tomos": 2,
-                  "nombre_tomo": "03 - The promised neverland",
+                  "nombre_tomo": "03 - nombre del articulo",
                   "imagen_tomo": "",
                   "enlace": ""
               },
               {
                   "id_tomos": 4,
-                  "nombre_tomo": "04 - The promised neverland",
+                  "nombre_tomo": "04 - nombre del articulo",
                   "imagen_tomo": "",
                   "enlace": ""
               },
               {
                   "id_tomos": 5,
-                  "nombre_tomo": "05 - The promised neverland",
+                  "nombre_tomo": "05 - nombre del articulo",
                   "imagen_tomo": "",
                   "enlace": ""
               }
