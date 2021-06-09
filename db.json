@@ -176,10 +176,8 @@
         ]
 
     }
-]
- 
-},
-{"coleccion_europeo":
+],
+ {"coleccion_europeo":
  [
     {
         "id": "europeo-nombre",
@@ -220,4 +218,7 @@
           ]
   
     }
+ 
+}
+
  
