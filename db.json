@@ -169,45 +169,4 @@
 
 			]
 
-		},
-		[{
-			"coleccion_europeo": [{
-				"id": "nombre-del-articulo",
-				"nombre": "nombre del articulo",
-				"imagen": "../../img/img_tienda/comic/europeo/independiente/recomendacion.jpg",
-				"num_tomos": 20,
-				"tomos": [{
-						"id_tomo": 1,
-						"nombre_tomo": "01 - nombre del articulo",
-						"imagen_tomo": "",
-						"enlace": ""
-					},
-					{
-						"id_tomos": 2,
-						"nombre_tomo": "02 - nombre del articulo",
-						"imagen_tomo": "",
-						"enlace": ""
-					},
-					{
-						"id_tomos": 2,
-						"nombre_tomo": "03 - nombre del articulo",
-						"imagen_tomo": "",
-						"enlace": ""
-					},
-					{
-						"id_tomos": 4,
-						"nombre_tomo": "04 - nombre del articulo",
-						"imagen_tomo": "",
-						"enlace": ""
-					},
-					{
-						"id_tomos": 5,
-						"nombre_tomo": "05 - nombre del articulo",
-						"imagen_tomo": "",
-						"enlace": ""
-					}
-				]
-			}]
-		}]
-	]
-}
+		}
