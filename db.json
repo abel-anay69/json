@@ -1,226 +1,212 @@
-{"coleccion":
-[
-    {
-        "id": "the-promised-neverland",
-        "nombre": "The promised neverland",
-        "imagen": "/img/img_tienda/mangas/the-promised-neverland/the-promised-neverland-01.jpg",
-        "num_tomos": 20,
-        "tomos": [
-              {
-                  "id_tomo": 1,
-                  "nombre_tomo": "01 - The promised neverland",
-                  "imagen_tomo": "",
-                  "enlace": ""
-              },
-              {
-                  "id_tomos": 2,
-                  "nombre_tomo": "02 - The promised neverland",
-                  "imagen_tomo": "",
-                  "enlace": ""
-              },
-              {
-                  "id_tomos": 2,
-                  "nombre_tomo": "03 - The promised neverland",
-                  "imagen_tomo": "",
-                  "enlace": ""
-              },
-              {
-                  "id_tomos": 4,
-                  "nombre_tomo": "04 - The promised neverland",
-                  "imagen_tomo": "",
-                  "enlace": ""
-              },
-              {
-                  "id_tomos": 5,
-                  "nombre_tomo": "05 - The promised neverland",
-                  "imagen_tomo": "",
-                  "enlace": ""
-              }
-          ]
-  
-    },
-    {
-      "id": "guardianes-de-la-noche",
-      "nombre": "Guardianes de la noche",
-      "imagen": "/img/img_tienda/mangas/guardianes-de-la-noche/guardianes-de-la-noche-01.jpg",
-      "num_tomos": 20,
-      "tomos": [
-            {
-                "id_tomo": 1,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomo": 2,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomo": 3,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomo": 4,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomo": 5,
-                "imagen_tomo": "",
-                "enlace": ""
-            }
-        ]
+{
+	"coleccion": [{
+			"id": "the-promised-neverland",
+			"nombre": "The promised neverland",
+			"imagen": "/img/img_tienda/mangas/the-promised-neverland/the-promised-neverland-01.jpg",
+			"num_tomos": 20,
+			"tomos": [{
+					"id_tomo": 1,
+					"nombre_tomo": "01 - The promised neverland",
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"nombre_tomo": "02 - The promised neverland",
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"nombre_tomo": "03 - The promised neverland",
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"nombre_tomo": "04 - The promised neverland",
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"nombre_tomo": "05 - The promised neverland",
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
 
-    },
-    {
-      "id": "jujutsu-kaisen",
-      "nombre": "Jujutsu Kaisen",
-      "imagen": "/img/img_tienda/mangas/jujutsu-kaisen/jujutsu-kaisen-01.jpg",
-      "num_tomos": 6,
-      "tomos": [
-            {
-                "id_tomo": 1,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomos": 2,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomos": 3,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomos": 4,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomos": 5,
-                "imagen_tomo": "",
-                "enlace": ""
-            }
-        ]
+		},
+		{
+			"id": "guardianes-de-la-noche",
+			"nombre": "Guardianes de la noche",
+			"imagen": "/img/img_tienda/mangas/guardianes-de-la-noche/guardianes-de-la-noche-01.jpg",
+			"num_tomos": 20,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomo": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomo": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomo": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomo": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
 
-    },
-    {
-      "id": "tokyo-ghoul",
-      "nombre": "Tokyo Ghoul",
-      "imagen": "/img/img_tienda/mangas/tokyo-ghoul/tokyo-ghoul-01.jpg",
-      "num_tomos": 14,
-      "tomos": [
-            {
-                "id_tomo": 1,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomos": 2,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomos": 3,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomos": 4,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomos": 5,
-                "imagen_tomo": "",
-                "enlace": ""
-            }
-        ]
-        
-    },
-    {
-      "id": "my-hero-academia",
-      "nombre": "My hero academia",
-      "imagen": "/img/img_tienda/mangas/my-hero-academia/my-hero-academia-01.jpg",
-      "num_tomos": 30,
-      "tomos": [
-            {
-                "id_tomo": 1,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomos": 2,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomos": 3,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomos": 4,
-                "imagen_tomo": "",
-                "enlace": ""
-            },
-            {
-                "id_tomos": 5,
-                "imagen_tomo": "",
-                "enlace": ""
-            }
+		},
+		{
+			"id": "jujutsu-kaisen",
+			"nombre": "Jujutsu Kaisen",
+			"imagen": "/img/img_tienda/mangas/jujutsu-kaisen/jujutsu-kaisen-01.jpg",
+			"num_tomos": 6,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
 
-        ]
+		},
+		{
+			"id": "tokyo-ghoul",
+			"nombre": "Tokyo Ghoul",
+			"imagen": "/img/img_tienda/mangas/tokyo-ghoul/tokyo-ghoul-01.jpg",
+			"num_tomos": 14,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
 
-    }
-   ,
-{"coleccion_europeo":
-[
-    {
-        "id": "nombre-del-articulo",
-        "nombre": "nombre del articulo",
-        "imagen": "../../img/img_tienda/comic/europeo/independiente/recomendacion.jpg",
-        "num_tomos": 20,
-        "tomos": [
-              {
-                  "id_tomo": 1,
-                  "nombre_tomo": "01 - nombre del articulo",
-                  "imagen_tomo": "",
-                  "enlace": ""
-              },
-              {
-                  "id_tomos": 2,
-                  "nombre_tomo": "02 - nombre del articulo",
-                  "imagen_tomo": "",
-                  "enlace": ""
-              },
-              {
-                  "id_tomos": 2,
-                  "nombre_tomo": "03 - nombre del articulo",
-                  "imagen_tomo": "",
-                  "enlace": ""
-              },
-              {
-                  "id_tomos": 4,
-                  "nombre_tomo": "04 - nombre del articulo",
-                  "imagen_tomo": "",
-                  "enlace": ""
-              },
-              {
-                  "id_tomos": 5,
-                  "nombre_tomo": "05 - nombre del articulo",
-                  "imagen_tomo": "",
-                  "enlace": ""
-              }
-          ]
-    }
-   
-    
-   
-    
+		},
+		{
+			"id": "my-hero-academia",
+			"nombre": "My hero academia",
+			"imagen": "/img/img_tienda/mangas/my-hero-academia/my-hero-academia-01.jpg",
+			"num_tomos": 30,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
 
+			]
 
- 
+		}, {
+			"coleccion_europeo": [{
+				"id": "nombre-del-articulo",
+				"nombre": "nombre del articulo",
+				"imagen": "../../img/img_tienda/comic/europeo/independiente/recomendacion.jpg",
+				"num_tomos": 20,
+				"tomos": [{
+						"id_tomo": 1,
+						"nombre_tomo": "01 - nombre del articulo",
+						"imagen_tomo": "",
+						"enlace": ""
+					},
+					{
+						"id_tomos": 2,
+						"nombre_tomo": "02 - nombre del articulo",
+						"imagen_tomo": "",
+						"enlace": ""
+					},
+					{
+						"id_tomos": 2,
+						"nombre_tomo": "03 - nombre del articulo",
+						"imagen_tomo": "",
+						"enlace": ""
+					},
+					{
+						"id_tomos": 4,
+						"nombre_tomo": "04 - nombre del articulo",
+						"imagen_tomo": "",
+						"enlace": ""
+					},
+					{
+						"id_tomos": 5,
+						"nombre_tomo": "05 - nombre del articulo",
+						"imagen_tomo": "",
+						"enlace": ""
+					}
+				]
+			}]
+		}
+	]
+}
