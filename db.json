@@ -169,7 +169,8 @@
 
 			]
 
-		}, {
+		},
+		[{
 			"coleccion_europeo": [{
 				"id": "nombre-del-articulo",
 				"nombre": "nombre del articulo",
@@ -207,6 +208,6 @@
 					}
 				]
 			}]
-		}
+		}]
 	]
 }
