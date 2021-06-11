@@ -168,12 +168,38 @@
 				}
 			]
 		},
-		      {
+		{
 			    "id": "venom",
 			    "nombre": "Veneno",
 			    "imagen": "/img/img_tienda/comic/marvel/Carrusel_novedades/comicpop2.jpg",
-			    "nun_tomos: 24
-		      }
+			    "nun_tomos: 24,
+			    "tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomo": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomo": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomo": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomo": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+		}
 	]
 
 }
