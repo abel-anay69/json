@@ -206,7 +206,7 @@
 			"id": "x-men",
 			"nombre": "Patrulla X",
 			"imagen": "/img/img_tienda/comic/marvel/Carrusel_novedades/comic4pop.jpg",
-			"num_tomos": 20,
+			"num_tomos": 8,
 			"tomos": [{
 					"id_tomo": 1,
 					"imagen_tomo": "",
@@ -233,7 +233,6 @@
 					"enlace": ""
 				}
 			]
-
 		}
 	]
 
