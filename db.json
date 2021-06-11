@@ -167,6 +167,39 @@
 					"enlace": ""
 				}
 			]
+		},
+		{
+			"id": "venom",
+			"nombre": "venom opshit",
+			"imagen": "/img/img_tienda/mangas/tokyo-ghoul/tokyo-ghoul-01.jpg",
+			"num_tomos": 14,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+
 		}
 	]
 
