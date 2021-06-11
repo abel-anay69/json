@@ -175,26 +175,31 @@
 			    "nun_tomos: 24,
 			    "tomos": [{
 					"id_tomo": 1,
+					"nombre_tomo": "01 - Veneno",
 					"imagen_tomo": "",
 					"enlace": ""
 				},
 				{
 					"id_tomo": 2,
+					"nombre_tomo": "02 - Veneno",
 					"imagen_tomo": "",
 					"enlace": ""
 				},
 				{
 					"id_tomo": 3,
+					"nombre_tomo": "03 - Veneno",
 					"imagen_tomo": "",
 					"enlace": ""
 				},
 				{
 					"id_tomo": 4,
+					"nombre_tomo": "04 - Veneno",
 					"imagen_tomo": "",
 					"enlace": ""
 				},
 				{
 					"id_tomo": 5,
+					"nombre_tomo": "05 - Veneno",
 					"imagen_tomo": "",
 					"enlace": ""
 				}
