@@ -167,7 +167,13 @@
 					"enlace": ""
 				}
 			]
-		}
+		},
+		      {
+			    "id": "venom",
+			    "nombre": "Veneno",
+			    "imagen": "/img/img_tienda/comic/marvel/Carrusel_novedades/comicpop2.jpg",
+			    "nun_tomos: 24
+		      }
 	]
 
 }
