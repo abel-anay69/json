@@ -299,7 +299,295 @@
 					"enlace": ""
 				}
 			]
-		}      
+		},
+		{
+			"id": "astroboy",
+			"nombre": "ASTROBOY KANZENBAN # 01",
+			"imagen": "/img/img_tienda/mangas/manga-shop/Recomendacion de la semana/astro-boy.jpg",
+			"num_tomos": 12,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+		},    
+		{
+			"id": "ataquetitanes",
+			"nombre": "ATAQUE A LOS TITANES 27",
+			"imagen": "/img/img_tienda/mangas/manga-shop/Recomendacion de la semana/ataque-a-los-titanes.jpg",
+			"num_tomos": 12,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+		},    
+		{
+			"id": "firepunch",
+			"nombre": "FIRE PUNCH ＃01",
+			"imagen": "/img/img_tienda/mangas/manga-shop/Recomendacion de la semana/c_fire.jpg",
+			"num_tomos": 12,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+		},    
+		{
+			"id": "dragonballsuper",
+			"nombre": "DRAGON BALL SUPER 10",
+			"imagen": "/img/img_tienda/mangas/manga-shop/Recomendacion de la semana/db_super.jpg",
+			"num_tomos": 12,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+		},    
+		{
+			"id": "deathnote",
+			"nombre": "DEATH NOTE",
+			"imagen": "/img/img_tienda/mangas/manga-shop/Recomendacion de la semana/death-note.jpg",
+			"num_tomos": 12,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+		},    
+		{
+			"id": "oen",
+			"nombre": "OEN",
+			"imagen": "/img/img_tienda/mangas/manga-shop/Recomendacion de la semana/oen.jpg",
+			"num_tomos": 12,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+		},    
+		{
+			"id": "jojos",
+			"nombre": "JOJO'S BIZARRE ADVENTURE: PARTE VI",
+			"imagen": "/img/img_tienda/mangas/manga-shop/Recomendacion de la semana/jojos.jpg",
+			"num_tomos": 12,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+		},
+		{
+			"id": "innocent",
+			"nombre": "INNOCENT ROUGE 01",
+			"imagen": "/img/img_tienda/mangas/manga-shop/Recomendacion de la semana/innocent.jpg",
+			"num_tomos": 12,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+		},
+		{
+			"id": "atom",
+			"nombre": "ATOM: THE BEGINNING 10",
+			"imagen": "/img/img_tienda/mangas/manga-shop/Recomendacion de la semana/atom.jpg",
+			"num_tomos": 12,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+		},
 	]
 
 }
