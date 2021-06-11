@@ -233,7 +233,73 @@
 					"enlace": ""
 				}
 			]
-		}
+		},
+		
+		{
+			"id": "deadpool",
+			"nombre": "Masacre",
+			"imagen": "/img/img_tienda/comic/marvel/Carrusel_novedades/comic5pop.jpg",
+			"num_tomos": 6,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+		},
+		      
+		{
+			"id": "morbius",
+			"nombre": "Morbius",
+			"imagen": "/img/img_tienda/comic/marvel/Carrusel_novedades/comic6pop.jpg",
+			"num_tomos": 12,
+			"tomos": [{
+					"id_tomo": 1,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 2,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 3,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 4,
+					"imagen_tomo": "",
+					"enlace": ""
+				},
+				{
+					"id_tomos": 5,
+					"imagen_tomo": "",
+					"enlace": ""
+				}
+			]
+		}      
 	]
 
 }
